@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 📚 Карта лета 4 класс — Релиз 1.0 (Лера)",
+  "description": "Интерактивный летний читательский дневник-экспедиция для школьников после 4 класса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
