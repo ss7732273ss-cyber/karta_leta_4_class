@@ -1,3 +1,4 @@
+# Workflow to build and deploy the application from the 'dist' directory to GitHub Pages.
 name: Deploy to GitHub Pages
 
 on:
